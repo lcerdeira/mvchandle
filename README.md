@@ -30,7 +30,7 @@
 
   ## Demonstration
 
-  Access the live application [here](https://bruger.herokuapp.com/).
+  Access the live application [here](https://protected-bayou-37534.herokuapp.com/).
 
   ## Installation
 
