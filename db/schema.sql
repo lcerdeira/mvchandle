@@ -1,8 +1,8 @@
-DROP DATABASE IF EXISTS as2j0yeoa35dcgfn;
+DROP DATABASE IF EXISTS w7vvbhpbhr5s6h4t;
 
-CREATE DATABASE as2j0yeoa35dcgfn;
+CREATE DATABASE w7vvbhpbhr5s6h4t;
 
-USE as2j0yeoa35dcgfn;
+USE w7vvbhpbhr5s6h4t;
 
 CREATE TABLE burgers (
   id INT NOT NULL AUTO_INCREMENT,
