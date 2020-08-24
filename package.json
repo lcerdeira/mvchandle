@@ -1,25 +1,21 @@
 {
-  "name": "mvchandle",
-  "version": "1.0.0",
-  "description": "![Code Count](https://img.shields.io/github/languages/count/lcerdeira/mvchandle)    ![Main Code Base](https://img.shields.io/github/languages/top/lcerdeira/mvchandle)    ![License](https://img.shields.io/badge/license-MIT-blue)    ![Version](https://img.shields.io/badge/version-1.0-red)    ![Last Commit](https://img.shields.io/github/last-commit/lcerdeira/mvchandle)    ![Open Issues](https://img.shields.io/github/issues-raw/lcerdeira/mvchandle)    ![Repo Size](https://img.shields.io/github/repo-size/lcerdeira/mvchandle)",
-  "main": "server.js",
-  "dependencies": {
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lcerdeira/mvchandle.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/lcerdeira/mvchandle/issues"
-  },
-  "homepage": "https://github.com/lcerdeira/mvchandle#readme"
+    "name": "burger",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lcerdeira/mvchandle/issues"
+    },
+    "homepage": "https://github.com/lcerdeira/mvchandle#readme"
 }
